@@ -1,8 +1,8 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
-    "project_name": "Name of your science project",
+    "full_name": "Burke Squires",
+    "email": "burkesquires@gmail.com",
+    "github_username": "burkesquires",
+    "project_name": "Name of your bioinformatics project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
     "release_date": "{% now 'local' %}",
